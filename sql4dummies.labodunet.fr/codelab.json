@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-20T16:54:55+01:00",
+  "id": "sql4dummies.labodunet.fr",
+  "duration": 15,
+  "title": "Title of codelab",
+  "summary": "In this lab, you will learn SQL basics commands",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/labodunet/sql4dummies",
+  "ga": "G-MQYN4ZSF1V",
+  "url": "sql4dummies.labodunet.fr"
+}
